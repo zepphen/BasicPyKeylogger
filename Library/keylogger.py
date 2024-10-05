@@ -1,7 +1,7 @@
 # Imports
 import os
 import logging
-from pynput.keyboard import Key, Listener
+from pynput.keyboard import Listener
 from datetime import datetime
 
 """ 
